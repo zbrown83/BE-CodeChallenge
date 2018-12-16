@@ -1,0 +1,17 @@
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\bin\Release\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\bin\Release\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\bin\Release\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\bin\Release\netcoreapp2.0\dotnet_code_challenge.Test.deps.json
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\bin\Release\netcoreapp2.0\dotnet_code_challenge.Test.runtimeconfig.json
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\bin\Release\netcoreapp2.0\dotnet_code_challenge.Test.runtimeconfig.dev.json
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\bin\Release\netcoreapp2.0\dotnet_code_challenge.Test.dll
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\bin\Release\netcoreapp2.0\dotnet_code_challenge.Test.pdb
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\bin\Release\netcoreapp2.0\dotnet_code_challenge.dll
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\bin\Release\netcoreapp2.0\dotnet_code_challenge.pdb
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\obj\Release\netcoreapp2.0\dotnet-code-challenge.Test.csprojAssemblyReference.cache
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\obj\Release\netcoreapp2.0\dotnet-code-challenge.Test.csproj.CoreCompileInputs.cache
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\obj\Release\netcoreapp2.0\dotnet-code-challenge.Test.AssemblyInfoInputs.cache
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\obj\Release\netcoreapp2.0\dotnet-code-challenge.Test.AssemblyInfo.cs
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\obj\Release\netcoreapp2.0\dotnet-code-challenge.Test.csproj.CopyComplete
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\obj\Release\netcoreapp2.0\dotnet_code_challenge.Test.dll
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge.Test\obj\Release\netcoreapp2.0\dotnet_code_challenge.Test.pdb

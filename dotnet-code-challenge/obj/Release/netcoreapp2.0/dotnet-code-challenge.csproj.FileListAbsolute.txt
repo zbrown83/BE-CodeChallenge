@@ -1,0 +1,11 @@
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge\bin\Release\netcoreapp2.0\dotnet_code_challenge.deps.json
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge\bin\Release\netcoreapp2.0\dotnet_code_challenge.runtimeconfig.json
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge\bin\Release\netcoreapp2.0\dotnet_code_challenge.runtimeconfig.dev.json
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge\bin\Release\netcoreapp2.0\dotnet_code_challenge.dll
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge\bin\Release\netcoreapp2.0\dotnet_code_challenge.pdb
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge\obj\Release\netcoreapp2.0\dotnet-code-challenge.csprojAssemblyReference.cache
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge\obj\Release\netcoreapp2.0\dotnet-code-challenge.csproj.CoreCompileInputs.cache
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge\obj\Release\netcoreapp2.0\dotnet-code-challenge.AssemblyInfoInputs.cache
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge\obj\Release\netcoreapp2.0\dotnet-code-challenge.AssemblyInfo.cs
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge\obj\Release\netcoreapp2.0\dotnet_code_challenge.dll
+D:\Zac\Work\1 - BetEasy - code-challenge\dotnet-code-challenge\obj\Release\netcoreapp2.0\dotnet_code_challenge.pdb
